@@ -1,0 +1,89 @@
+
+.link .simple-link {
+  text-decoration: underline;
+  color: #F2C777;
+}
+
+a {
+  text-decoration: underline;
+  color: #024959;
+}
+
+
+.icon{
+  display: :inline-block;
+  height: 25px; width: 25px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.align-left{
+  text-align: left;
+}
+.align-right{
+  text-align: right;
+}
+.align-center{
+  text-align: center;
+}
+
+.centered{
+  display: block;
+  position: relative;
+  width: 100%; height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+.main{
+  background-color: #092140;
+}
+
+.description{
+  background-color: :#F2C777;
+}
+
+.masta-name{
+  background-color: #0A1829;
+}
+
+.profile-picture{
+  background: url(../images/profil.jpg) no-repeat center  ;
+height: auto;
+}
+.menu-show{
+  background-color: #BF2A2A;
+}
+
+.main-title{
+  background-color: #024959;
+
+}
+.content-title{
+  background-color: #024959;
+}
+
+.content{
+  background-color: #BF2A2A;
+}
+
+.main-menu{
+  background-color: #BF2A2A;
+  list-style: none;
+}
+.menu-item{
+  color: #024959;
+}
+h2{
+  background-color: #024959;
+}
+
+.description{
+  background-color: #BF2A2A;
+}
+
+.works-group{
+
+}
